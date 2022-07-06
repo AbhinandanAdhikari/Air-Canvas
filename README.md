@@ -1,7 +1,7 @@
 # **Air Canvas** using **Computer Vision**
 
-- **Air Canvas** is a **virtual painting** application that helps the user to draw on screen virtually just by waving their **finger** fitted with **coloured caps** in the air without touching the screen.
-- This project uses the concept of **Computer Vision** and is implemented using ```Python```, ```OpenCv``` & ```Numpy```.
+- __Air Canvas__ is a __virtual painting__ application that helps the user to draw on screen virtually just by waving their __finger__ fitted with __coloured caps__ in the air without touching the screen.
+- This project uses the concept of __Computer Vision__ and is implemented using ```Python```, ```OpenCv``` & ```Numpy```.
 
 # System Requirements:
 
@@ -12,11 +12,11 @@
 
 # Concepts used:
 
-- **Color Tracking:** Tracks the colored object at the finger tip.
-- **Contour Detection:** Detects the position of the colored object and making a circle over it.
-- **Frame Processing:** Tracking the finger tip and drawing points at each coordinate positions for virtual painting effect.
-- **Image Masking:** Image mask is created after detecting color.
-- **Color space conversion:** Converts the BGR into HSV values.
+- __Color Tracking:__ Tracks the colored object at the finger tip.
+- __Contour Detection:__ Detects the position of the colored object and making a circle over it.
+- __Frame Processing:__ Tracking the finger tip and drawing points at each coordinate positions for virtual painting effect.
+- __Image Masking:__ Image mask is created after detecting color.
+- __Color space conversion:__ Converts the BGR into HSV values.
 
 # Algorithm:
 - Read the frames and convert the captured frames to HSV color space.
@@ -28,6 +28,11 @@
 
 # Screenshots:
 
+## Initially, after running the python file the window will look like this:
+- ![image](Screenshots/Screenshot_20220706_202022.jpg)
+
+## After choosing the color you can start painting:
+- ![image](Screenshots/Screenshot_20220706_202136.jpg)
 # Applications of this project:
 - Draw your imagination on screen easily.
 - Can be used for teaching purpose and one can easily rub the window by just choosing clear all option.
