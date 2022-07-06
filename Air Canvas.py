@@ -1,4 +1,4 @@
-# TAir Canvas Project is made by Abhinandan Adhikari
+# Air Canvas Project is made by Abhinandan Adhikari
 from collections import deque
 import cv2
 import numpy as np
