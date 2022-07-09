@@ -2,6 +2,7 @@
 
 - __Air Canvas__ is a __virtual painting__ application that helps the user to draw on screen virtually just by waving their __finger__ fitted with __coloured caps__ in the air without touching the screen.
 - This project uses the concept of __Computer Vision__ and is implemented using ```Python```, ```OpenCv``` & ```Numpy```.
+- [Click here to watch the demo video](https://www.youtube.com/watch?v=3U3UQiU3t3g)
 
 # System Requirements:
 
